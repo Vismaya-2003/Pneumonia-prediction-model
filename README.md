@@ -15,7 +15,9 @@ This project implements a Convolutional Neural Network (CNN) model for predictin
 - **Python**: Programming language used for model training and web application development.
 - **TensorFlow/Keras**: Libraries for building and training the CNN model.
 - **Streamlit**: Framework for creating the web application interface.
-- **OpenCV/PIL**: Used for image processing and handling.
+
+## Dataset
+- The dataset was acquired from Kaggle [Chest X-Ray Pneumonia Dataset on Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ## Usage
 
@@ -26,5 +28,5 @@ This project implements a Convolutional Neural Network (CNN) model for predictin
 4. **View the prediction results directly on the webpage**
 
 ## Project Structure
-- app.py: Streamlit application code.
-- pneumonia.ipynb: Contains the CNN model architecture and training code.
+- **app.py**: Streamlit application code.
+- **pneumonia.ipynb**: Contains the CNN model architecture and training code.
